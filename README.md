@@ -1,1 +1,3 @@
 # Data-Mining-Covid-cases
+
+Performed a first analysis on the dataset, plotted appropriate graphs for it, identified patterns and correlations, then  train two regressors: one based on RNNs and one on SVMs, which guess the rate of positivity in Greece 3 days after the date on which the analysis is done. between the different columns of the dataset and between the statistics calculated.Divided the countries into clusters based on their performance in dealing with the virus,then trained two regression models: one based on RNNs and one on SVMs, which guess the rate of positivity in Greece 3 days after the date on which a given analysis is done.
